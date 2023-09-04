@@ -1,4 +1,4 @@
-## Objective
+## Metrodata Academy SIBKM DevSecOps Task 3: Versioning
 
 - Establish a team.
 - Simulate the implementation of the following Git commands on each team member's machine (include screenshots):

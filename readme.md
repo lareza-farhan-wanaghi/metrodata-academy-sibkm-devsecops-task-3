@@ -4,7 +4,7 @@
 - Simulate the implementation of the following Git commands on each team member's machine (include screenshots):
 	- `git help`
 	- `git init`
-	- `git add <filename>`
+	- `git add`
 	- `git status`
 	- `git commit`
 	- `git config`

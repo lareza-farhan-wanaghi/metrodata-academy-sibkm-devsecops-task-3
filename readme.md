@@ -1,7 +1,7 @@
 ## Objective
 
 - Establish a team.
-- Simulate the implementation of the following Git commands (each member's individual implementation):
+- Simulate the implementation of the following Git commands on each team member's machine (include screenshots):
 	- `git help`
 	- `git init`
 	- `git add <filename>`
@@ -9,7 +9,7 @@
 	- `git commit`
 	- `git config`
 	- `git log`
-- Simulate the following events with each team member as the player/code contributor:
+- Simulate the following events with each team  member as the player/code contributor (include screenshots):
 	- Fast-Forward Merging 
 	- Three-Way Merging 
 	- Resolving a Merge Conflict
@@ -28,7 +28,7 @@ We utilize "Google Meet" as our online communication platform to accomplish the 
 <img src="_resources/Screenshot%202023-09-04%20at%2012.26.27.png" width="75%"/>
 
 ### 2. Individual Code Implementations
-1. Each team member started the implementation by executing the `git help` command (the order of the member executing the code from the first to last is reza, indra, and lesti):
+1. Each team member initiated the implementation process by executing the `git help` command in the following order: Reza, Indra, and Lesti.
 
 	<img src="_resources/Screenshot%202023-09-03%20at%2015.09.43.png" width="75%"/>
 
@@ -36,7 +36,7 @@ We utilize "Google Meet" as our online communication platform to accomplish the 
 
 	<img src="_resources/ec7ccd5e8249673fac4b1cc2a141ed0a.png" width="75%"/>
 
-2. Reza first created a folder and initialized a repository in that folder.
+2. Subsequently, they created a folder and initialized a Git repository within that folder using the `git init` command.
 
 	<img src="_resources/Screenshot%202023-09-03%20at%2015.01.45.png" width="75%"/>
 
@@ -44,7 +44,7 @@ We utilize "Google Meet" as our online communication platform to accomplish the 
 	
 	<img src="_resources/b890bad82d02671a9bbb6e6a174d7824.png" width="75%"/>
 
-3. Reza then created a file in the repository, added it to the staging area, and checked the status before committing the change:
+3. Next, they created a file within the repository, added it to the staging area using the `git add` command, and checked its status before committing the changes using the `git status` command.
 
 	<img src="_resources/Screenshot%202023-09-03%20at%2015.15.26.png" width="75%"/>
 
@@ -54,7 +54,7 @@ We utilize "Google Meet" as our online communication platform to accomplish the 
 
 	<img src="_resources/fdcc269acbf4867861642808b88b7f78.png" width="75%"/>
 
-4. Reza then finally committed the change:
+4. By using the `git commit` command, they finally proceeded to commit the changes.
 
 	<img src="_resources/Screenshot%202023-09-03%20at%2015.21.20.png" width="75%"/>
 
@@ -62,7 +62,7 @@ We utilize "Google Meet" as our online communication platform to accomplish the 
 
 	<img src="_resources/08c92d7d420684ec8cdf39c4a9977b6f.png" width="75%"/>
 	
-5. Reza then checked the history of his commits.
+5. Following the commits, they reviewed the commit history using the `git log` command.
 
 	<img src="_resources/Screenshot%202023-09-03%20at%2015.27.39.png" width="75%"/>
 

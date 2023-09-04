@@ -1,1 +1,1 @@
-Lareza Farhan Wanaghi - Indra Wicaksono - Lesti Oktasari
+Lareza Farhan Wanaghi - Lesti Oktasari - Indra Wicaksono

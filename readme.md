@@ -151,7 +151,7 @@ We utilize "Google Meet" as our online communication platform to accomplish the 
 
 	<img src="_resources/Screenshot%202023-09-04%20at%2012.05.36.png" width="75%"/>
 
-### 5. Conflict
+### 5. Resolving Conflict Simulation
 
 1. Now, each member changed the `readme.md` file to include each member's name. Reza updated the file with the following content and pushed it:
 

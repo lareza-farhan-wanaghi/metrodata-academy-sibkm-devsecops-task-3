@@ -111,7 +111,7 @@ We utilize "Google Meet" as our online communication platform to accomplish the 
 
 	<img src="_resources/3b7bdefe69a49d3cefad46d09803ed7f.png" width="75%"/>
 
-7. Lesti cloned the repository on her machine. She then added a new branch, put a file into it, and then pushed it.
+7. Lesti cloned the repository on her machine. She added a new branch, put a file into it, and then pushed it.
 
 	<img src="_resources/9101524183177c6cf821e44b758b0bef.png" width="75%"/>
 

@@ -117,7 +117,7 @@ We utilize "Google Meet" as our online communication platform to accomplish the 
 
 	<img src="_resources/Screenshot%202023-09-04%20at%2011.56.30.png" width="75%"/>
 
-8. She then switched to the main branch and merged it with her branch.
+8. Lesti then switched to the main branch and merged it with her branch.
 
 	<img src="_resources/Screenshot%202023-09-04%20at%2012.02.38.png" width="75%"/>
 

@@ -85,45 +85,39 @@ We utilize "Google Meet" as our online communication platform to accomplish the 
 
 	<img src="_resources/Screenshot%202023-09-03%20at%2017.42.44.png" width="75%"/>
 
-3. Reza created a branch called "reza."
+3. Reza created a branch called "reza," put a new file into the branch, and then pushed the branch to the remote repository.
 
 	<img src="_resources/Screenshot%202023-09-03%20at%2017.41.58.png" width="75%"/>
 
-4. Reza created a new file and pushed it to the repository.
-
 	<img src="_resources/Screenshot%202023-09-03%20at%2018.00.29.png" width="75%"/>
 
-5. Reza then switched to the main branch, merged it with his branch, and pushed the merge.
+4. Reza then switched to the main branch, merged it with his branch, and pushed the merge.
 
 	<img src="_resources/Screenshot%202023-09-03%20at%2018.00.54.png" width="75%"/>
 
 	<img src="_resources/Screenshot%202023-09-03%20at%2018.10.56.png" width="75%"/>
 
-6. Indra cloned the repository on his machine.
+5. Indra cloned the repository on his machine. He then created a branch called "indra", put a new file into the branch, and pushed the branch to the remote repository.
 
 	<img src="_resources/4b083a0d3544d42989da640d3e4498c8.png" width="75%"/>
 
-7. Indra then created a branch.
-
 	<img src="_resources/ac0de9373c829a55ab33a3db06e82ac1.png" width="75%"/>
-
-8. Indra created a new file and pushed it to the repository.
 
 	<img src="_resources/ebcb47b5cb332fdea06e933f58ad1056.png" width="75%"/>
 
 	<img src="_resources/3994c954af6c68c95b4c8d47b59ba38a.png" width="75%"/>
 
-9. Indra then merged his branch into the main branch.
+6. Indra then merged his branch into the main branch.
 
 	<img src="_resources/3b7bdefe69a49d3cefad46d09803ed7f.png" width="75%"/>
 
-10. Lesti cloned the repository on her machine, added a file, and pushed it.
+7. Lesti cloned the repository on her machine. She then added a new branch, put a file into it, and then pushed it.
 
 	<img src="_resources/9101524183177c6cf821e44b758b0bef.png" width="75%"/>
 
 	<img src="_resources/Screenshot%202023-09-04%20at%2011.56.30.png" width="75%"/>
 
-11. She switched to the main branch and merged it with her branch.
+8. She then switched to the main branch and merged it with her branch.
 
 	<img src="_resources/Screenshot%202023-09-04%20at%2012.02.38.png" width="75%"/>
 

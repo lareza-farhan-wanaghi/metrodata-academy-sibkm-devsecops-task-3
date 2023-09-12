@@ -27,7 +27,7 @@ We utilize "Google Meet" as our online communication platform to accomplish the 
 
 <img src="_resources/Screenshot%202023-09-04%20at%2012.26.27.png" width="75%"/>
 
-### 2. Individual Code Implementations
+### 2. Individual Git Commands Implementations
 1. Each team member initiated the implementation process by executing the `git help` command in the following order: Reza, Indra, and Lesti.
 
 	<img src="_resources/Screenshot%202023-09-03%20at%2015.09.43.png" width="75%"/>
